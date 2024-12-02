@@ -1,7 +1,7 @@
 # SMPC Cryptographic Techniques
   ```bash
 ## Overview
-This repository contains two powerful cryptographic implementations demonstrating advanced privacy and security techniques:
+This repository contains two cryptographic implementations demonstrating privacy and security techniques:
 
 1. **Threshold Secret Sharing** (`threshold_secret_sharing.py`)
 2. **Garbled Circuits** (`garbled_circuits.py`)
