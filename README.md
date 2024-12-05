@@ -12,7 +12,7 @@ This repository contains two cryptographic implementations demonstrating privacy
 - **Python 3.8+**
 - Required libraries: Install them using:
   ```bash
-  pip install sympy colorama termcolor cryptography
+  pip install -r requirements.txt
 
 ---
 
