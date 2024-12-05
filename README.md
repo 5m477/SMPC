@@ -89,7 +89,7 @@ Contributions are welcome! Please:
 Follow PEP 8 style guidelines.
 Add comprehensive comments.
 Include test cases for new features.
-Hit me up on GitHub: @5m477
+Hit me up on Twitter : https://x.com/5m477
 
 ---
 
