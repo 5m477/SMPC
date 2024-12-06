@@ -3,7 +3,7 @@
 ## Overview
 This repository contains two cryptographic implementations demonstrating privacy and security techniques:
 
-1. **Threshold Secret Sharing** (`threshold_secret_sharing.py`)
+1. **Threshold Secret Sharing** (`threshold_wallet.py`)
 2. **Garbled Circuits** (`garbled_circuits.py`)
 
 ---
